@@ -1,2 +1,2 @@
 # gitCurso-test
-Este es un priyecto de prueba con git
+Este es un proyecto de prueba con git
